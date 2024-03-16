@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1710585934563" clover="3.2.0">
-  <project timestamp="1710585934563" name="All files">
-    <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0" elements="0" coveredelements="0" complexity="0" loc="0" ncloc="0" packages="0" files="0" classes="0"/>
+<coverage generated="1710631905721" clover="3.2.0">
+  <project timestamp="1710631905721" name="All files">
+    <metrics statements="13" coveredstatements="13" conditionals="8" coveredconditionals="8" methods="1" coveredmethods="1" elements="22" coveredelements="22" complexity="0" loc="13" ncloc="13" packages="1" files="1" classes="1"/>
+    <file name="wordle.js" path="C:\Git-repos\B7-1-Testad-Wordle-algoritm\wordle.js">
+      <metrics statements="13" coveredstatements="13" conditionals="8" coveredconditionals="8" methods="1" coveredmethods="1"/>
+      <line num="2" count="5" type="stmt"/>
+      <line num="3" count="5" type="stmt"/>
+      <line num="4" count="5" type="stmt"/>
+      <line num="5" count="25" type="stmt"/>
+      <line num="6" count="25" type="stmt"/>
+      <line num="7" count="125" type="cond" truecount="4" falsecount="0"/>
+      <line num="8" count="9" type="stmt"/>
+      <line num="9" count="9" type="stmt"/>
+      <line num="12" count="25" type="stmt"/>
+      <line num="14" count="5" type="stmt"/>
+      <line num="15" count="25" type="cond" truecount="4" falsecount="0"/>
+      <line num="16" count="4" type="stmt"/>
+      <line num="19" count="5" type="stmt"/>
+    </file>
   </project>
 </coverage>
